@@ -70,14 +70,15 @@
             .container{
               padding: 7rem 0;
                 h2{
-                    font-size: 2rem;
+                    font-size: 3rem;
                     span{
                         display: inline-block;
                     }
                 }
 
                 p{
-                    font-size: 1rem;
+                  max-width: 1000px;
+                  font-size: 1.5rem;
                 }
                 
             }

@@ -8,12 +8,12 @@
 
 </template>
 
-<script setup></script>
+<script setup>
+
+
+
+</script>
 
 <style scoped>
-
-    .home{
-        background-color: #222;
-    }
 
 </style>

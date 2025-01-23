@@ -80,6 +80,7 @@
                     }
 
                     .content{
+                        padding: 0 15px 5px;
                         margin-top: 20px;
                         
                         p{
@@ -116,7 +117,7 @@
         .projects_section{
 
             h2{
-                font-size: 2rem;
+                font-size: 3rem;
                 margin-bottom: 2rem;
             }
 
